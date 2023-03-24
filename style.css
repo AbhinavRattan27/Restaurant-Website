@@ -1,0 +1,240 @@
+body{
+    background-color:#e0d9d9;
+}
+
+.h{
+    padding-bottom: 810px;
+    margin-top: 66px;
+    margin-left: 60px;
+    margin-right: 50px;
+    background-color:#e7e0e0;
+    border-radius: 3%;
+    border-style: solid;
+    border-color:white;
+    border-width: 3.25px;
+
+}
+.h11{
+    margin-top: 5px;
+   margin-left:175px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 36.5px;
+}
+.hh{
+height: 12.5px;
+width: 12.5px; background-color: white;
+border-radius: 50%;
+display: inline-block;
+margin-left: 29px;
+margin-top: 25px;
+background-color: #ff7461;
+cursor: pointer;
+}
+.hh2{
+    height: 12.5px;
+    width: 12.5px; background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 3.5px;
+    margin-top: 25px;
+    background-color:#ffd84c;
+    cursor: pointer;
+    }
+    .hh3{
+        height: 12.5px;
+        width: 12.5px; background-color: white;
+        border-radius: 50%;
+        display: inline-block;
+        margin-left: 3.5px;
+        margin-top: 25px;
+        background-color:#82d59f;
+        cursor: pointer;
+        }
+ .h11::first-letter{
+            color: red;
+         }
+         .j{
+            display: inline-block;
+            margin-left:25px;
+         }
+         .jh{
+            display: inline-block;
+            margin-left:25px;
+         }
+
+      .div1{
+float: right;
+margin-right: 500px;
+margin-block: -76px;
+      }   
+
+      .j{
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:20px;
+      }
+      .jh{
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:20px;
+        color:red;
+      }
+      
+      .j:hover{
+       color: red;
+       cursor: pointer;
+      }
+
+      .img{
+        background-color: inherit;
+        height:3%;
+        width:3%;
+        float:right;
+        margin-block: -70px;
+        margin-right: 280px;
+      }
+
+      .button{
+        background-color:#d31a27;
+        text-decoration: none;
+         color:aliceblue;
+         padding-top: 16px;
+         padding-left: 40px;
+         padding-right: 40px;
+         border-radius: 30px;
+         padding-bottom: 16px;
+        float: right;
+        margin-block: -76px;
+        margin-right: 135px;
+        cursor:pointer;
+        border: none;
+        font-size: 14px;
+      }
+
+      .mainh{
+       margin-left:170px;
+       font-size:70px;
+       font-family:serif;
+       margin-top: 100px;
+      
+      }
+
+      .abhi{
+        float:right;
+        height: 470px;
+        width:470px;
+        margin-block: -350px;
+        margin-right: 240px;
+        margin-top: -300px;
+      }
+
+      .button:hover{
+        background-color: #ff7461;
+      }
+
+      .hh:hover{
+        background-color: red;
+      }
+
+     .hh2:hover{
+      background-color: yellowgreen;
+     }
+
+     .hh3:hover{
+      background-color: green;
+     }
+
+     .img:hover{
+     cursor: pointer;
+     }
+
+     .buy{
+       background-color:#d31a27;
+       color:#f2f2f2;
+       font-size: 15px;
+      padding-top: 20px;
+       padding-left: 40px;
+       padding-right: 40px;
+       border-radius: 30px;
+       padding-bottom: 20px;
+       margin-left: 160px;
+       border: none;
+       cursor: pointer;
+     }
+
+     .buy1{
+background-color:#f2f2f2;
+color:black;
+font-size: 15px;
+padding-top: 20px;
+padding-left: 40px;
+padding-right: 40px;
+border-radius: 30px;
+padding-bottom: 20px;
+cursor: pointer;
+margin-left: 12px;
+border: none;
+     }
+
+     .buy:hover{
+background-color:orangered ;
+     }
+
+     .buy1:hover{
+background-color:bisque
+     }
+
+     .review1{
+      margin-left: 169px;
+      font-size: 19.5px;
+      margin-top: 40px;
+      font-weight: 900;
+     }
+
+     .imh{
+      margin-left: 165px;
+      height:43px;
+      width:40px;
+      border-radius: 50%;
+      border-style:solid;
+      border-color: white;
+      border-width: 2px;
+     }
+
+     .imh1{
+      margin-left:-12px;
+      height:47px;
+      width:45px;
+      border-radius: 50%;
+     }
+
+     .imh2{
+      margin-left:-12px;
+      height:47px;
+      width:45px;
+      border-radius: 50%;
+      border-radius: 50%;
+      border-style:solid;
+      border-color: white;
+      border-width: 2px;
+     }
+     .imh3{
+      margin-left:-12px;
+      height:47px;
+      width:45px;
+      border-radius: 50%;
+      border-radius: 50%;
+      border-style:solid;
+      border-color:cadetblue;
+      border-width: 2px;
+     
+     }
+
+     .cc{
+      margin-left: 165px;
+      height:30px;
+      width:140px;
+      margin-top: 6.5px;
+     }
+     
+     .bb{
+      background-image:url(left1.png);
+     }
